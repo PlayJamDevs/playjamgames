@@ -1,4 +1,6 @@
-# Play Jam Games - Repositorio para subir tus juegos que se usaran en el Play Jam Launcher.
+# Play Jam Games
+
+### Repositorio para subir tus juegos que se usaran en el Play Jam Launcher.
 
 Toda la información de cómo participar, la encontrás en la wiki: https://github.com/PlayJamDevs/PlayJamLauncher/wiki
 
